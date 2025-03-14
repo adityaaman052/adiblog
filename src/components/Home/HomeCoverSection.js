@@ -9,7 +9,7 @@ const HomeCoverSection = ({ blogs }) => {
   if (!blogs || blogs.length === 0) return null; // Prevent errors if no blogs exist
 
   const sortedBlogs = sortBlogs(blogs);
-  const blog = sortedBlogs[0];
+  const blog = sortedBlogs[10];
 
   return (
     <div className="w-full inline-block">
