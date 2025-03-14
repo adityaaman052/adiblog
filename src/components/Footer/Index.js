@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { GithubIcon, LinkedinIcon, TwitterIcon } from "../Icons";
+import { GithubIcon, LinkedinIcon, XIcon } from "../Icons";
 
 const Footer = () => {
   const [email, setEmail] = useState("");
@@ -77,7 +77,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           className="hover:scale-110 transition-all"
         >
-          <TwitterIcon className="w-7 h-7 fill-gray-300 hover:fill-white" />
+          <XIcon className="w-7 h-7 fill-gray-300 hover:fill-white" />
         </a>
       </div>
 

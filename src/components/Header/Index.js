@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Logo from "./Logo";
-import { DribbbleIcon, GithubIcon, LinkedinIcon, MoonIcon, SunIcon, TwitterIcon } from "../Icons";
+import { DribbbleIcon, GithubIcon, LinkedinIcon, MoonIcon, SunIcon, XIcon } from "../Icons";
 import siteMetadata from "@/utils/siteMetaData";
 import { useThemeSwitch } from "../Hooks/useThemeSwitch";
 import { useState } from "react";
@@ -44,7 +44,7 @@ const Header = () => {
             <LinkedinIcon className="w-6 h-6" />
           </a>
           <a href={siteMetadata.twitter} className="hover:scale-110 transition-all" target="_blank" aria-label="Twitter">
-            <TwitterIcon className="w-6 h-6" />
+            <XIcon className="w-6 h-6" />
           </a>
           <a href={siteMetadata.github} className="hover:scale-110 transition-all" target="_blank" aria-label="GitHub">
             <GithubIcon className="w-6 h-6 dark:fill-light" />

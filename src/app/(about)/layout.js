@@ -2,14 +2,16 @@ import InsightRoll from "@/components/About/InsightRoll"
 
 
 const insights = [
-    "20+ Projects Completed",
-    "3+ Years of Freelancing",
-    "99% Client Satisfaction",
-    "20K+ Subscribers",
-    "Authored In-Depth Course on Educative",
-    "Contributed as a Technical Course Reviewer 📝",
-    "Recipient of the Hackernoon Noonies Award 🏆",
-  ];
+  "GDG Hackathon Winner 🏆",
+  "Developed full-stack projects, including a crowdfunding platform & mess management system",
+  "Experience in MERN & Next.js with backend integration",
+  "Expertise in authentication, payment gateways & API development",
+  "Built an edtech platform for a hackathon",
+  "Integrated Python AI features into web projects",
+  "Completed an internship on payment integration with kiosks",
+  "Open-source contributor with projects on GitHub",
+];
+
 
 export default function AboutLayout({ children }) {
   return (
