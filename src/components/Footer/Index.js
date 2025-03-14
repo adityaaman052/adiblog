@@ -56,7 +56,7 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex justify-center space-x-6 mt-6">
         <a
-          href="https://github.com/AdityaAman"
+          href="https://github.com/adityaaman052"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:scale-110 transition-all"
@@ -64,7 +64,7 @@ const Footer = () => {
           <GithubIcon className="w-7 h-7 fill-gray-300 hover:fill-white" />
         </a>
         <a
-          href="https://linkedin.com/in/adityaaman"
+          href="https://x.com/AdityaAman25065?t=v-UdjChcd6zBq01yYthGbg&s=08"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:scale-110 transition-all"
@@ -72,7 +72,7 @@ const Footer = () => {
           <LinkedinIcon className="w-7 h-7 fill-gray-300 hover:fill-white" />
         </a>
         <a
-          href="https://twitter.com/AdityaAman"
+          href="https://www.linkedin.com/in/aditya-aman-120a73281/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:scale-110 transition-all"

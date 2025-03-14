@@ -12,9 +12,9 @@ const siteMetadata = {
     email: 'adityaaman.codex@gmail.com', 
     github: 'https://github.com/adityaaman052',
     twitter: 'https://x.com/AdityaAman25065?t=v-UdjChcd6zBq01yYthGbg&s=08',
-    facebook: 'https://facebook.com',
-    youtube: 'https://youtube.com/codebucks',
-    linkedin: 'https://www.linkedin.com/in/codebucks/',
+    facebook: 'https://adiblog-213z.vercel.app/',
+    youtube: 'https://adiblog-213z.vercel.app/',
+    linkedin: 'https://www.linkedin.com/in/aditya-aman-120a73281/',
     dribbble: 'https://www.dribbble.com',
     locale: 'en-US',
   }

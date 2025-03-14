@@ -1,8 +1,8 @@
 export default function manifest() {
     return {
-      name: 'Next.js App',
-      short_name: 'Next.js App',
-      description: 'Next.js App',
+      name: 'AdiBlog',
+      short_name: 'AdiBlog',
+      description: 'Technical Blogs',
       start_url: '/',
       display: 'standalone',
     //   background_color: '#fff',
